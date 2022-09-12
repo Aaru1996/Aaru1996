@@ -58,14 +58,14 @@ Always eager to learn new technologies to enhance my skills and bring value to t
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/arun-yadav-5821411b6/">
+    <a target="_blank" href="https://www.linkedin.com/in/arun-yadav-5821411b6/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
-    <a href="https://portfolio-fsw.netlify.app/">
+    <a target="_blank" href="https://portfolio-fsw.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://arjun-porfolio.vercel.app/"      />
       </a>
-    <a title="arunkumaryadav19031996@gmail.com" href="arunkumaryadav19031996@gmail.com">
+    <p >
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="arunkumaryadav19031996@gmail.com" />
-    </a>
+    </p>
 </p>
 <br>
 
