@@ -58,16 +58,13 @@ Always eager to learn new technologies to enhance my skills and bring value to t
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/arjun-singh-366476194/">
+    <a href="https://www.linkedin.com/in/arun-yadav-5821411b6/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
-    </a>
-    <a href="https://twitter.com/ArjunBhakuni3">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ArjunBhakuni3" />
-    </a>
-    <a href="#">
+   
+    <a href="https://portfolio-fsw.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://arjun-porfolio.vercel.app/" />
     </a>
-    <a title="arjunbhakuni23@gmail.com" href="arjunbhakuni23@gmail.com">
+    <a title="arunkumaryadav19031996@gmail.com" href="arunkumaryadav19031996@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="arjunbhakuni23@gmail.com" />
     </a>
 </p>
@@ -75,7 +72,7 @@ Always eager to learn new technologies to enhance my skills and bring value to t
 
 
 
-<!----------------------------------- GitHub Stats Section ------------------------------------>
+
 
 
 
