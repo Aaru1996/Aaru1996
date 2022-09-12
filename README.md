@@ -11,17 +11,11 @@
 
 <h3>
   A creative full stack developer with problem solving skills and specializing in MERN stack.
-
-Completed 30 weeks of coding bootcamp at Masai School and developed frontend and backend skills.
-
-Always eager to learn new technologies to enhance my skills and bring value to the IT organization.
+  Completed 30 weeks of coding bootcamp at Masai School and developed frontend and backend skills.
+  Always eager to learn new technologies to enhance my skills and bring value to the IT organization.
 </h3>
  
 <br>
-
-
-
-
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -58,20 +52,24 @@ Always eager to learn new technologies to enhance my skills and bring value to t
 
 
 <p align="left">
-    <a target="_blank" href="https://www.linkedin.com/in/arun-yadav-5821411b6/">
+    <a href="https://www.linkedin.com/in/arjun-singh-366476194/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
-    <a target="_blank" href="https://portfolio-fsw.netlify.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://arjun-porfolio.vercel.app/"      />
-      </a>
-    <p >
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="arunkumaryadav19031996@gmail.com" />
-    </p>
+    </a>
+    <a href="https://twitter.com/ArjunBhakuni3">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ArjunBhakuni3" />
+    </a>
+    <a href="#">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://arjun-porfolio.vercel.app/" />
+    </a>
+    <a title="arjunbhakuni23@gmail.com" href="arjunbhakuni23@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="arjunbhakuni23@gmail.com" />
+    </a>
 </p>
 <br>
 
 
 
-
+<!----------------------------------- GitHub Stats Section ------------------------------------>
 
 
 
