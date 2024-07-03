@@ -10,10 +10,13 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-  A creative full stack developer with problem solving skills and specializing in MERN
-  stack. Having 11 months of experience in web development as a Product Support
-  Engineer. Always eager to learn new technologies to enhance my skills and bring
-  value to the organization.
+  Motivated and detail-oriented Front-End Developer with 11 months
+  of hands-on experience in developing dynamic and responsive web
+  applications using React.js. Proficient in JavaScript, HTML, and CSS,
+  with a strong understanding of modern front-end development tools
+  and workflows. Seeking to leverage my expertise in a challenging
+  role to contribute to innovative projects and drive user-centric
+  solutions
 </h3>
  
 <br>
