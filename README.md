@@ -11,7 +11,7 @@
 
 <h3>
   A creative full stack developer with problem solving skills and specializing in MERN
-  stack. Having 9 months of experience in web development as a Product Support
+  stack. Having 11 months of experience in web development as a Product Support
   Engineer. Always eager to learn new technologies to enhance my skills and bring
   value to the organization.
 </h3>
