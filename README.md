@@ -10,13 +10,11 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-  Motivated and detail-oriented Front-End Developer with 11 months
-  of hands-on experience in developing dynamic and responsive web
-  applications using React.js. Proficient in JavaScript, HTML, and CSS,
-  with a strong understanding of modern front-end development tools
-  and workflows. Seeking to leverage my expertise in a challenging
-  role to contribute to innovative projects and drive user-centric
-  solutions
+Motivated MERN Stack Developer with 10 months of experience in building dynamic, scalable, and user-friendly web applications.
+Proficient in React.js, Node.js, Express.js, and MongoDB, with a strong understanding of front-end and back-end development.
+Skilled in writing clean, efficient code, optimizing performance, and implementing RESTful APIs.
+Adept at collaborating with cross-functional teams to deliver high-quality software solutions.
+Seeking opportunities to contribute and grow in a challenging development environment.
 </h3>
  
 <br>
